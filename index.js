@@ -1,1 +1,2 @@
 function main (){};
+function first (){};
